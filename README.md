@@ -1,90 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:9D4EDD,100:00D4FF&height=220&section=header&text=SUSHEETHA%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20STUDENT&descAlignY=58&descSize=18" width="100%" alt="Colourful profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Susheetha%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student&descAlignY=60&descSize=20" width="100%" alt="Susheetha Profile Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space+%F0%9F%92%9C;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Turning+Ideas+Into+Innovation+%F0%9F%9A%80;Learn.+Code.+Build.+Repeat.+%E2%9C%A8" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI+%26+Data+Science+Engineer;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Innovation;Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="AI and Data Science"/>
-<img src="https://img.shields.io/badge/Creative%20Thinker-FF1493?style=for-the-badge&logo=brainly&logoColor=white" alt="Creative Thinker"/>
-<img src="https://img.shields.io/badge/Always%20Learning-00BFFF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always Learning"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Data%20Science-00BFFF?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Always%20Learning-FF1493?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always Learning"/>
 
 <br/><br/>
 
 <a href="https://github.com/Susheetha007">
-<img src="https://komarev.com/ghpvc/?username=Susheetha007&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Susheetha007&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">🌌 WHO AM I?</h2>
+## 💫 About Me
 
-<img align="right" alt="Coding animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
-```python
-class Susheetha:
-    def __init__(self):
-        self.name = "Susheetha M"
-        self.field = "AI & Data Science"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Programming",
-            "Data Analytics"
-        ]
-        self.mindset = "Learn, Build, Innovate"
+👋 Hi! I'm **Susheetha M**, an undergraduate student pursuing **Artificial Intelligence and Data Science**.
 
-    def my_goal(self):
-        return "Turning ideas into meaningful solutions"
+💻 Passionate about programming and technology.
 
-me = Susheetha()
-```
+🤖 Exploring Artificial Intelligence and Machine Learning.
 
-✨ An enthusiastic AI & Data Science student exploring the exciting world of technology.
+📊 Interested in Data Science and data-driven solutions.
 
-💻 Learning programming through hands-on practice.
+🚀 Building projects and gaining hands-on experience.
 
-🤖 Exploring AI, Machine Learning, and data-driven solutions.
+🌱 Learning new technologies and improving my skills every day.
 
-🚀 Building projects that combine creativity and technology.
-
-🌱 Improving my skills one project at a time.
+🎯 **My Goal:** To transform creative ideas into meaningful technological solutions.
 
 <br clear="right"/>
 
 ---
 
-<h2 align="center">⚡ MY TECH ARSENAL</h2>
+## ⚡ My Tech Stack
 
-<h3 align="center">💻 Programming Languages</h3>
+### 💻 Programming Languages
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java and Python"/>
 </p>
 
-<h3 align="center">🌐 Web Development</h3>
+### 🌐 Web Technologies
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS"/>
 </p>
 
-<h3 align="center">🛠️ Developer Tools</h3>
+### 🛠️ Tools I Use
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and VS Code"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-9D4EDD?style=for-the-badge&logo=probot&logoColor=white" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Data%20Science-00BFFF?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Science"/>
+### 🧠 Areas of Interest
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=flat-square&logo=probot&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF1493?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Data%20Science-00BFFF?style=flat-square&logo=databricks&logoColor=white" alt="Data Science"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -92,17 +80,24 @@ me = Susheetha()
 
 <h3 align="center">📚 EduGenie</h3>
 
-<p align="center">✨ AI-Powered Learning Assistant</p>
-
-An educational assistant designed to help learners with topic explanations, questions, quizzes, text summaries, and learning recommendations.
-
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<b>AI-Powered Learning Assistant</b>
 </p>
 
+An educational assistant designed to help students learn through AI-powered features.
+
+✨ Topic explanations  
+💬 Question-and-answer support  
+📝 Quiz generation  
+📄 Text summarization  
+🎯 Learning recommendations  
+
+**Technologies:** Python, FastAPI, HTML, CSS, AI integration.
+
 <p align="center">
-<a href="https://edugenie-njfj.onrender.com">🌐 Live Demo</a>
+<a href="https://edugenie-njfj.onrender.com">
+<img src="https://img.shields.io/badge/Explore%20Live%20Project-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Project"/>
+</a>
 </p>
 
 </td>
@@ -110,18 +105,23 @@ An educational assistant designed to help learners with topic explanations, ques
 
 <h3 align="center">🏏 Cricket AI</h3>
 
-<p align="center">✨ Player Performance Prediction</p>
-
-An AI/ML project exploring data-driven cricket player performance predictions through a user-friendly application.
-
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<b>Player Performance Prediction</b>
 </p>
 
+An AI/ML project focused on exploring cricket player performance prediction using data-driven insights.
+
+📊 Player performance analysis  
+🤖 Predictive analytics  
+📈 Data-driven insights  
+💻 User-friendly application  
+
+**Technologies:** Python, Machine Learning, Streamlit.
+
 <p align="center">
-<a href="https://github.com/Susheetha007?tab=repositories">🔗 Explore Repositories</a>
+<a href="https://github.com/Susheetha007?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
 </p>
 
 </td>
@@ -129,18 +129,88 @@ An AI/ML project exploring data-driven cricket player performance predictions th
 </table>
 
 <p align="center">
-✨ More projects and experiments coming soon!
+✨ Exploring new ideas and building more projects!
 </p>
 
 ---
 
-<h2 align="center">📊 MY GITHUB UNIVERSE</h2>
+## 📊 My GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/Susheetha007">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Susheetha007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC8CFF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Susheetha007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC8CFF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/Susheetha007">
-<img height="180" src="https://github-readme-stats.vercel
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susheetha007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BC8CFF&text_color=FFFFFF" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Susheetha007&theme=tokyonight&hide_border=true&background=0D1117&ring=BC8CFF&fire=FF1493&currStreakLabel=00D9FF" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| 💜 Technology | 🚀 My Focus |
+|:---:|:---|
+| ☕ Java | Programming and Object-Oriented Programming |
+| 🐍 Python | Problem-solving and development |
+| 🤖 Artificial Intelligence | Exploring intelligent systems |
+| 🧠 Machine Learning | Understanding predictive models |
+| 📊 Data Science | Data analysis and insights |
+| 🌐 Web Development | Building interactive applications |
+| 🔧 Git & GitHub | Version control and collaboration |
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- 🚀 Build meaningful AI and Data Science projects.
+- 💻 Improve my programming and problem-solving skills.
+- 🤖 Explore new developments in Artificial Intelligence.
+- 🌱 Learn continuously through practical experience.
+- 🤝 Collaborate with other developers and innovators.
+- ✨ Turn innovative ideas into useful applications.
+
+---
+
+## 💜 Beyond the Code
+
+I believe that every new concept learned and every project built is a step towards becoming a better developer.
+
+For me, technology is not just about writing code. It's about **solving problems, exploring possibilities, and creating something meaningful.**
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/Susheetha007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/Susheetha007?tab=repositories">
+<img src="https://img.shields.io/badge/My%20Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"/>
+</a>
+
+<br/><br/>
+
+### 💫 Dream Big. Code Smart. Build Something Meaningful. 💫
+
+**Thanks for visiting my profile!** 💜
+
+⭐ If you find my projects interesting, feel free to explore my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%" alt="Profile Footer"/>
+
+</div>
