@@ -4,7 +4,6 @@
 
 ### AI & Data Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space+💜;AI+%26+Data+Science+Explorer+🤖;Turning+Ideas+Into+Innovation+🚀;Learn.+Code.+Build.+Repeat.+✨" alt="Typing SVG" />
 
 <br/>
 
